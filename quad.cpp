@@ -4,15 +4,12 @@
 #include <iomanip>
 using namespace std;
 
-
-int main()
-{
+int main(){
     int xvalues1;
     int xvalues2;
     int a;
     int b;
     int c;
-    
     cout << "What is the a value in the trinomial?" ;
     cin >> a;
     cout << "What is the b value in the trinomial?" ;
