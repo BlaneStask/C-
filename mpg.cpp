@@ -4,12 +4,10 @@
 #include <iomanip>
 using namespace std;
 
-int main()
-{
+int main(){
     int gallons;
     int miles;
     int mpg;
-    
     cout << "How many gallons of gas can the car hold? " ;
     cin >> gallons;
     cout << "How many miles can be driven on a full tank of gas? " ;
