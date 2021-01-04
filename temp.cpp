@@ -4,11 +4,9 @@
 #include <iomanip>
 using namespace std;
 
-int main()
-{
+int main(){
     int fahrenheit;
     int celsius;
-    
     cout << "What is the temperature in degrees Celsius? " ;
     cin >> celsius;
     //Calculate the temperature in degrees fahrenheit
